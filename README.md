@@ -9,4 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
