@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
 ## Enumeration
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
