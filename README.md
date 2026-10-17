@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2235-add-two-integers) |
 ## Enumeration
 |  |
 | ------- |
