@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
