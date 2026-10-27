@@ -1,9 +1,26 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        String s1 = s.trim();
-        int index = s1.length()-1;
-        int index1 = s1.lastIndexOf(" ");
-        return index - index1;
+        // String s1 = s.trim();
+        // int index = s1.length()-1;
+        // int index1 = s1.lastIndexOf(" ");
+        // return index - index1;
+
+        // 2 lines better approach
+        // s = s.trim();
+        // return s.length() - 1 - s.lastIndexOf(' ');
+
+         int length = 0;
+        
+        // Loop backward through the string
+        for (int i = s.length() - 1; i >= 0; i--) {
+            if (s.charAt(i) != ' ') {
+                length++;
+            } 
+            else if (length > 0) {
+                break;
+            }
+        }
+        return length;
     }
 }
 
