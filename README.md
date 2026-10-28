@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
