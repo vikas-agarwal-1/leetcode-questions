@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2235-add-two-integers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0020-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
