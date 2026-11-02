@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String Matching
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
