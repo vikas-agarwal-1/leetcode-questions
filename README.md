@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0344-reverse-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 ## Stack
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
