@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
