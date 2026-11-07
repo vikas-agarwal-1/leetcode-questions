@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String Matching
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 ## Bit Manipulation
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 <!---LeetCode Topics End-->
