@@ -53,43 +53,31 @@ class Solution {
         int j = 0;
 
         while (j < n) {
-
             // Expand window
             char ch = s.charAt(j);
-
             if (map.containsKey(ch)) {
                 map.put(ch, map.get(ch) - 1);
-
                 if (map.get(ch) == 0) {
                     count--;
                 }
             }
-
             // Window size becomes k
             if (j - i + 1 == k) {
-
                 if (count == 0) {
                     ans.add(i);
                 }
-
                 // Remove outgoing character
                 char out = s.charAt(i);
-
                 if (map.containsKey(out)) {
-
                     if (map.get(out) == 0) {
                         count++;
                     }
-
                     map.put(out, map.get(out) + 1);
                 }
-
                 i++;
             }
-
             j++;
         }
-
         return ans;
     }
 }
