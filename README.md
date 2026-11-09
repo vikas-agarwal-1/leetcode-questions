@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
