@@ -5,8 +5,9 @@ class Solution {
         int i=0;
         long sum = 0l;
         long maxi = 0l;
+        int j=0;
 
-        for(int j=0; j<nums.length; j++) {
+        while(j<nums.length) {
             while(set.contains(nums[j])) {
                 set.remove(nums[i]);
                 sum -= nums[i];
@@ -22,6 +23,7 @@ class Solution {
                 sum -= nums[i];
                 i++;
             }
+            j++;
         }
         return maxi;
     }
