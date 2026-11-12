@@ -1,25 +1,52 @@
 class Solution {
     public int longestMonotonicSubarray(int[] nums) {
-        if(nums == null || nums.length == 0) {
+        // if(nums == null || nums.length == 0) {
+        //     return 0;
+        // }
+        // int maxLength = 1;
+        // int incLength = 1;
+        // int decLength = 1;
+
+        // for(int i=1; i<nums.length; i++) {
+        //    if (nums[i] > nums[i - 1]) {
+        //         incLength++;
+        //         decLength = 1;
+        //     } else if (nums[i] < nums[i - 1]) {
+        //         decLength++;
+        //         incLength = 1;
+        //     } else {
+        //         incLength = 1;
+        //         decLength = 1;
+        //     }
+        //     maxLength = Math.max(maxLength, Math.max(incLength, decLength));
+        // }
+        // return maxLength;
+
+        // using sliding window 
+        if (nums == null || nums.length == 0) {
             return 0;
         }
+        
         int maxLength = 1;
-        int incLength = 1;
-        int decLength = 1;
-
-        for(int i=1; i<nums.length; i++) {
-           if (nums[i] > nums[i - 1]) {
-                incLength++;
-                decLength = 1;
-            } else if (nums[i] < nums[i - 1]) {
-                decLength++;
-                incLength = 1;
-            } else {
-                incLength = 1;
-                decLength = 1;
+        
+        // 1. Sliding window for strictly increasing
+        int left = 0;
+        for (int right = 1; right < nums.length; right++) {
+            if (nums[right] <= nums[right - 1]) {
+                left = right; // Pattern broke, reset window start
             }
-            maxLength = Math.max(maxLength, Math.max(incLength, decLength));
+            maxLength = Math.max(maxLength, right - left + 1);
         }
+        
+        // 2. Sliding window for strictly decreasing
+        left = 0;
+        for (int right = 1; right < nums.length; right++) {
+            if (nums[right] >= nums[right - 1]) {
+                left = right; // Pattern broke, reset window start
+            }
+            maxLength = Math.max(maxLength, right - left + 1);
+        }
+        
         return maxLength;
     }
 }
