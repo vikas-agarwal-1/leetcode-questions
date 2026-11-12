@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
 |  |
 | ------- |
