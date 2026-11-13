@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 ## Memoization
