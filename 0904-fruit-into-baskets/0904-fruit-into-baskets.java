@@ -24,3 +24,37 @@ class Solution {
         return maxi;
     }
 }
+
+
+
+// brute approach
+// class Solution {
+//     public int totalFruit(int[] fruits) {
+
+//         int n = fruits.length;
+//         int maxi = 0;
+
+//         for (int i = 0; i < n; i++) {
+
+//             Map<Integer, Integer> map = new HashMap<>();
+
+//             for (int j = i; j < n; j++) {
+
+//                 int fruit = fruits[j];
+
+//                 map.put(
+//                     fruit,
+//                     map.getOrDefault(fruit, 0) + 1
+//                 );
+
+//                 if (map.size() <= 2) {
+//                     maxi = Math.max(maxi, j - i + 1);
+//                 } else {
+//                     break;
+//                 }
+//             }
+//         }
+
+//         return maxi;
+//     }
+// }
