@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2653-sliding-subarray-beauty) |
+| [3364-minimum-positive-sum-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
