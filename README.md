@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2235-add-two-integers) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0152-maximum-product-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
