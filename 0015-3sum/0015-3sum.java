@@ -32,10 +32,11 @@ class Solution {
             while(j<k) {
                 int sum = nums[i] + nums[j] + nums[k];
                 if(sum == 0)  {
-                    List<Integer> list = new ArrayList();
-                    list.add(nums[i]);
-                    list.add(nums[j]);
-                    list.add(nums[k]);
+                    // List<Integer> list = new ArrayList();
+                    List<Integer> list = Arrays.asList(nums[i], nums[j], nums[k]);
+                    // list.add(nums[i]);
+                    // list.add(nums[j]);
+                    // list.add(nums[k]);
                     result.add(list);
                     j++;
                     k--;
