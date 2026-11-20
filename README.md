@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0905-sort-array-by-parity) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
