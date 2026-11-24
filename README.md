@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vikas-agarwal-1/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
